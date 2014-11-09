@@ -41,3 +41,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.class
+*.prefs
+*.project
+*.classpath
