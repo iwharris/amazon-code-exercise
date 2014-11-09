@@ -6,7 +6,19 @@ This solution was accepted by the reviewer.
 
 ###Exercise
 
+A binary search tree is a binary tree with the nodes sorted such that for each node N in the tree: 
+
+- The left subtree contains only nodes with values less than the value in N 
+
+- The right subtree contains only nodes with values greater than the value in N
+
+This is a valid binary search tree.
+
+![Binary Search Tree](https://github.com/iwharris/amazon-code-exercise/blob/master/img/bst.jpg?raw=true "Binary Search Tree")
+
 A B-tree is a generalization of a binary search tree, where each node has *n* keys and *n+1* children and n can be different for each node. The keys are sorted the same as in a binary search tree. For each key *k* in the tree, all children to the left must have keys less than *k*, and all children to the right must have keys greater than *k*.
+
+![B-tree](https://github.com/iwharris/amazon-code-exercise/blob/master/img/btree.jpg?raw=true "B-Tree")
 
 **QUESTION:**
 
