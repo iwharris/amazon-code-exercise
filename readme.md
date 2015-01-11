@@ -32,7 +32,7 @@ Write a method that validates whether a B-tree is correctly sorted. You do NOT n
         List<Node> children; 
     } 
 
-*C: *
+*C:*
 
     struct node { 
 	
